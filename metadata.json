@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Price Scanner",
+  "description": "An advanced real-time web-wide search scanner that identifies the lowest prices offered for products across e-commerce platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
